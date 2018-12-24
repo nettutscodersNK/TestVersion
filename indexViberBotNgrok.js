@@ -8,11 +8,8 @@ const BotEvents = require('viber-bot').Events;
 const PictureMessage = require('viber-bot').Message.Picture;
 const TextMessage = require('viber-bot').Message.Text;
 
-
-
-
 const bot = new ViberBot( {
-    authToken: "48cea3353aa7d4d0-3dcf0c72ef38a324-92e2662305cbb93f",
+//    authToken: "48cea3353aa7d4d0-3dcf0c72ef38a324-92e2662305cbb93f",
     name: "Football",
     avatar: "https://vi.ill.in.ua/m/625x469/1371357.jpg"
 });
